@@ -1,13 +1,13 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
 
 title: Piyush Sharma
 
 description: I am looking for Data Scientist/Data Analyst opportunities.
 
+logo: /assets/img/headshot_circle.png
 
-
-
+show_downloads: true
 
